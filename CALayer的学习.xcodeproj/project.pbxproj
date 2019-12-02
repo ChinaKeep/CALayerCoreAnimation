@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		18A672552390C7F600C0E4C2 /* girl.png in Resources */ = {isa = PBXBuildFile; fileRef = 18A672542390C7F600C0E4C2 /* girl.png */; };
+		18A672572390FDD100C0E4C2 /* BasesicAnimationVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A672562390FDD100C0E4C2 /* BasesicAnimationVC.swift */; };
+		18A6725A2390FDF100C0E4C2 /* FuncTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A672582390FDF100C0E4C2 /* FuncTableViewCell.swift */; };
+		18A6725B2390FDF100C0E4C2 /* FuncTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18A672592390FDF100C0E4C2 /* FuncTableViewCell.xib */; };
+		18A6725D2391033900C0E4C2 /* ChangeAnimationLocationVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A6725C2391033900C0E4C2 /* ChangeAnimationLocationVC.swift */; };
+		18A6725F2391043500C0E4C2 /* LayerDrawVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A6725E2391043500C0E4C2 /* LayerDrawVC.swift */; };
+		18A672612391321E00C0E4C2 /* SFProxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A672602391321E00C0E4C2 /* SFProxy.swift */; };
 		18BB2E6D238FA1420035B3AC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BB2E6C238FA1420035B3AC /* AppDelegate.swift */; };
 		18BB2E6F238FA1420035B3AC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BB2E6E238FA1420035B3AC /* ViewController.swift */; };
 		18BB2E72238FA1420035B3AC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18BB2E70238FA1420035B3AC /* Main.storyboard */; };
@@ -14,6 +21,14 @@
 		18BB2E77238FA1440035B3AC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18BB2E75238FA1440035B3AC /* LaunchScreen.storyboard */; };
 		18BB2E82238FA1440035B3AC /* CALayer___Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BB2E81238FA1440035B3AC /* CALayer___Tests.swift */; };
 		18BB2E8D238FA1440035B3AC /* CALayer___UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BB2E8C238FA1440035B3AC /* CALayer___UITests.swift */; };
+		18BB2E9B238FAE0A0035B3AC /* kunkun.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18BB2E9A238FAE0A0035B3AC /* kunkun.jpg */; };
+		18BB2E9F238FCAA90035B3AC /* SFLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BB2E9E238FCAA90035B3AC /* SFLayer.swift */; };
+		18BB2EA1238FCC4A0035B3AC /* SFView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BB2EA0238FCC4A0035B3AC /* SFView.swift */; };
+		18D2ECE72394E30700965E26 /* KeyFrameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D2ECE62394E30700965E26 /* KeyFrameViewController.swift */; };
+		18D2ECE92394F26800965E26 /* GroupAnimationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D2ECE82394F26800965E26 /* GroupAnimationViewController.swift */; };
+		18D2ECEB2394FABA00965E26 /* TransitionAnimationVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D2ECEA2394FABA00965E26 /* TransitionAnimationVC.swift */; };
+		18D2ECED23950AA000965E26 /* CADisplayLinkVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D2ECEC23950AA000965E26 /* CADisplayLinkVC.swift */; };
+		18D2ECEF239513C800965E26 /* UIVIewAnimationVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D2ECEE239513C800965E26 /* UIVIewAnimationVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +49,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		18A672542390C7F600C0E4C2 /* girl.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = girl.png; sourceTree = "<group>"; };
+		18A672562390FDD100C0E4C2 /* BasesicAnimationVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasesicAnimationVC.swift; sourceTree = "<group>"; };
+		18A672582390FDF100C0E4C2 /* FuncTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FuncTableViewCell.swift; sourceTree = "<group>"; };
+		18A672592390FDF100C0E4C2 /* FuncTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FuncTableViewCell.xib; sourceTree = "<group>"; };
+		18A6725C2391033900C0E4C2 /* ChangeAnimationLocationVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangeAnimationLocationVC.swift; sourceTree = "<group>"; };
+		18A6725E2391043500C0E4C2 /* LayerDrawVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayerDrawVC.swift; sourceTree = "<group>"; };
+		18A672602391321E00C0E4C2 /* SFProxy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SFProxy.swift; sourceTree = "<group>"; };
 		18BB2E69238FA1420035B3AC /* CALayer的学习.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CALayer的学习.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18BB2E6C238FA1420035B3AC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18BB2E6E238FA1420035B3AC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +69,14 @@
 		18BB2E88238FA1440035B3AC /* CALayer的学习UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "CALayer的学习UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18BB2E8C238FA1440035B3AC /* CALayer___UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CALayer___UITests.swift"; sourceTree = "<group>"; };
 		18BB2E8E238FA1440035B3AC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18BB2E9A238FAE0A0035B3AC /* kunkun.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kunkun.jpg; sourceTree = "<group>"; };
+		18BB2E9E238FCAA90035B3AC /* SFLayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SFLayer.swift; sourceTree = "<group>"; };
+		18BB2EA0238FCC4A0035B3AC /* SFView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SFView.swift; sourceTree = "<group>"; };
+		18D2ECE62394E30700965E26 /* KeyFrameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyFrameViewController.swift; sourceTree = "<group>"; };
+		18D2ECE82394F26800965E26 /* GroupAnimationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupAnimationViewController.swift; sourceTree = "<group>"; };
+		18D2ECEA2394FABA00965E26 /* TransitionAnimationVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionAnimationVC.swift; sourceTree = "<group>"; };
+		18D2ECEC23950AA000965E26 /* CADisplayLinkVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CADisplayLinkVC.swift; sourceTree = "<group>"; };
+		18D2ECEE239513C800965E26 /* UIVIewAnimationVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIVIewAnimationVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,11 +127,26 @@
 		18BB2E6B238FA1420035B3AC /* CALayer的学习 */ = {
 			isa = PBXGroup;
 			children = (
+				18A672542390C7F600C0E4C2 /* girl.png */,
 				18BB2E6C238FA1420035B3AC /* AppDelegate.swift */,
 				18BB2E6E238FA1420035B3AC /* ViewController.swift */,
+				18D2ECEC23950AA000965E26 /* CADisplayLinkVC.swift */,
+				18D2ECEA2394FABA00965E26 /* TransitionAnimationVC.swift */,
+				18D2ECE62394E30700965E26 /* KeyFrameViewController.swift */,
+				18D2ECE82394F26800965E26 /* GroupAnimationViewController.swift */,
+				18A6725C2391033900C0E4C2 /* ChangeAnimationLocationVC.swift */,
+				18A672562390FDD100C0E4C2 /* BasesicAnimationVC.swift */,
+				18A6725E2391043500C0E4C2 /* LayerDrawVC.swift */,
+				18D2ECEE239513C800965E26 /* UIVIewAnimationVC.swift */,
+				18A672602391321E00C0E4C2 /* SFProxy.swift */,
+				18A672582390FDF100C0E4C2 /* FuncTableViewCell.swift */,
+				18A672592390FDF100C0E4C2 /* FuncTableViewCell.xib */,
 				18BB2E70238FA1420035B3AC /* Main.storyboard */,
 				18BB2E73238FA1440035B3AC /* Assets.xcassets */,
 				18BB2E75238FA1440035B3AC /* LaunchScreen.storyboard */,
+				18BB2E9A238FAE0A0035B3AC /* kunkun.jpg */,
+				18BB2E9E238FCAA90035B3AC /* SFLayer.swift */,
+				18BB2EA0238FCC4A0035B3AC /* SFView.swift */,
 				18BB2E78238FA1440035B3AC /* Info.plist */,
 			);
 			path = "CALayer的学习";
@@ -230,6 +275,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				18BB2E77238FA1440035B3AC /* LaunchScreen.storyboard in Resources */,
+				18A6725B2390FDF100C0E4C2 /* FuncTableViewCell.xib in Resources */,
+				18A672552390C7F600C0E4C2 /* girl.png in Resources */,
+				18BB2E9B238FAE0A0035B3AC /* kunkun.jpg in Resources */,
 				18BB2E74238FA1440035B3AC /* Assets.xcassets in Resources */,
 				18BB2E72238FA1420035B3AC /* Main.storyboard in Resources */,
 			);
@@ -256,8 +304,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18D2ECE92394F26800965E26 /* GroupAnimationViewController.swift in Sources */,
+				18A6725F2391043500C0E4C2 /* LayerDrawVC.swift in Sources */,
+				18D2ECEB2394FABA00965E26 /* TransitionAnimationVC.swift in Sources */,
 				18BB2E6F238FA1420035B3AC /* ViewController.swift in Sources */,
+				18A6725D2391033900C0E4C2 /* ChangeAnimationLocationVC.swift in Sources */,
+				18A672612391321E00C0E4C2 /* SFProxy.swift in Sources */,
+				18A6725A2390FDF100C0E4C2 /* FuncTableViewCell.swift in Sources */,
+				18A672572390FDD100C0E4C2 /* BasesicAnimationVC.swift in Sources */,
+				18BB2E9F238FCAA90035B3AC /* SFLayer.swift in Sources */,
+				18D2ECED23950AA000965E26 /* CADisplayLinkVC.swift in Sources */,
+				18D2ECEF239513C800965E26 /* UIVIewAnimationVC.swift in Sources */,
 				18BB2E6D238FA1420035B3AC /* AppDelegate.swift in Sources */,
+				18D2ECE72394E30700965E26 /* KeyFrameViewController.swift in Sources */,
+				18BB2EA1238FCC4A0035B3AC /* SFView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -435,6 +495,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 9XR5X224JZ;
 				INFOPLIST_FILE = "CALayer的学习/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -442,7 +503,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.dongzi.opengl.CALayer---";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -453,6 +514,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 9XR5X224JZ;
 				INFOPLIST_FILE = "CALayer的学习/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -460,7 +522,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.dongzi.opengl.CALayer---";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
