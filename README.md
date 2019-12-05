@@ -4,4 +4,4 @@
 
 ![核心动画图](https://github.com/SuiFengLiuNian/CALayerCoreAnimation/blob/master/CALayerAnimations.gif)
 核心动画详细图
-![详细图]()
+
